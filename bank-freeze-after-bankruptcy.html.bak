@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why</title>
+<meta content="Your account was frozen the week after you filed Chapter 7. What the bank is actually doing, why big banks (Wells Fargo, Chase) freeze routinely, how long it lasts, and when funds get released." name="description"/>
+<meta content="bank account frozen after bankruptcy, chapter 7 bank freeze, wells fargo bankruptcy freeze, post-petition freeze, bank turnover trustee, 542 turnover, 362 stay bank" name="keywords"/>
+<link href="https://bankaccountlevy.com/bank-freeze-after-bankruptcy.html" rel="canonical"/>
+<meta content="Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why" property="og:title"/>
+<meta content="Why Wells Fargo and Chase freeze accounts after filing, what the law actually requires, and how long the freeze lasts." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://bankaccountlevy.com/bank-freeze-after-bankruptcy.html" property="og:url"/>
+<meta content="bankaccountlevy.com" property="og:site_name"/>
+<meta content="https://bankaccountlevy.com/og-image.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why" name="twitter:title"/>
+<meta content="Why Wells Fargo and Chase freeze accounts after filing, what the law actually requires, and how long the freeze lasts." name="twitter:description"/>
+<meta content="https://bankaccountlevy.com/og-image.svg" name="twitter:image"/>
+<meta content="#0d1117" name="theme-color"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());
+ gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<script src="/analytics.js" defer></script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why", "datePublished": "2026-04-22", "dateModified": "2026-04-22", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"Why did my bank freeze my account after I filed bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Banks freeze accounts after learning of a bankruptcy filing because they are required to turn over estate funds to the trustee under 11 U.S.C. section 542, while simultaneously avoiding violating the automatic stay under section 362. Rather than decide which funds belong to whom, they freeze the account and wait for the trustee to instruct them. Some banks (notably Wells Fargo) freeze all accounts over a low threshold as a matter of internal policy."}},
+{"@type":"Question","name":"How long does a post-bankruptcy bank freeze last?","acceptedAnswer":{"@type":"Answer","text":"Typically 3 to 10 business days after the bank confirms the filing. Resolution requires either the trustee releasing a hold letter to the bank (for exempt funds), the trustee demanding turnover, or the bank verifying that account balances are below the trustee's interest threshold. Most freezes end within two weeks of filing."}},
+{"@type":"Question","name":"Which banks are most likely to freeze accounts after a bankruptcy filing?","acceptedAnswer":{"@type":"Answer","text":"Wells Fargo has had the most litigation around routine post-filing freezes (see In re Mwangi and related cases). Chase, Bank of America, and US Bank freeze in some regions. Credit unions and smaller community banks generally do not freeze automatically. No federal rule requires the freeze - it is a bank-by-bank internal policy choice."}},
+{"@type":"Question","name":"Is a post-filing freeze a violation of the automatic stay?",""+"acceptedAnswer":{"@type":"Answer","text":"Unsettled. Courts are split. The Ninth Circuit in Mwangi held that a routine administrative freeze by Wells Fargo violated section 362(a)(3). The Second and Sixth Circuits have been more permissive, treating short freezes as prudent compliance with section 542 turnover obligations. If your freeze extends beyond 10-14 days or prevents access to clearly exempt funds, consult your bankruptcy attorney about a stay-violation motion."}},
+{"@type":"Question","name":"Should I move money out of my bank account before filing bankruptcy?",""+"acceptedAnswer":{"@type":"Answer","text":"Some attorneys advise moving funds to a credit union or smaller bank in the week before filing, to avoid the Wells Fargo / Chase routine-freeze pattern. This is legal - you are not hiding assets, just choosing where they sit. You must still disclose the account on your schedules. Do not close accounts without leaving a trail; do not withdraw cash and 'hide' it; those moves create trustee problems worse than a freeze."}}
+]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://bankaccountlevy.com/bank-freeze-after-bankruptcy.html"}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+ {
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+ {
+ "@type": "ListItem",
+ "position": 1,
+ "name": "Home",
+ "item": "https://bankaccountlevy.com"
+ },
+ {
+ "@type": "ListItem",
+ "position": 2,
+ "name": "Bank Account Freeze After Filing Bankruptcy",
+ "item": "https://bankaccountlevy.com/bank-freeze-after-bankruptcy.html"
+ }
+ ]
+ }
+ ]
+}
+</script>
+<style>
+:root { --bg:#0d1117; --surface:#151b23; --border:#30363d; --text:#e6edf3;
+ --text-muted:#9eaab6; --accent:#58a6ff; --green:#3fb950; --red:#f85149;
+ --orange:#d29922; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+ background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}
+header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}
+header h1{font-size:2.2rem;margin-bottom:.5rem}
+header .subtitle{color:var(--text-muted);font-size:1.1rem}
+main{padding:0}
+.content-section{background:var(--surface);border:1px solid var(--border);
+ border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}
+.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;
+ border-bottom:1px solid var(--border);padding-bottom:.5rem}
+.content-section h3{color:var(--text);font-size:1.1rem;margin:1.25rem 0 .5rem}
+.content-section p{margin-bottom:1rem;color:var(--text)}
+.content-section p:last-child{margin-bottom:0}
+.content-section strong{color:var(--text)}
+.content-section ul,.content-section ol{margin:.75rem 0 .75rem 1.5rem;color:var(--text)}
+.content-section li{margin-bottom:.35rem}
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);
+ border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
+.warning{background:var(--surface);border-left:3px solid var(--red);padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1rem 0}
+.green-box{background:var(--surface);border-left:3px solid var(--green);padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1rem 0}
+.yellow-box{background:var(--surface);border-left:3px solid var(--orange);padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1rem 0}
+.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);
+ border:2px solid var(--accent);border-radius:12px;padding:2rem;
+ text-align:center;margin:2rem 0}
+.cta-box p{font-size:1.1rem;margin-bottom:1rem}
+.btn{display:inline-block;background:var(--accent);color:#0d1117;
+ padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}
+.btn:hover{opacity:.9;text-decoration:none}
+.about-data{background:var(--surface);border:1px solid var(--border);
+ border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}
+table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem}
+th,td{padding:.6rem .85rem;text-align:left;border-bottom:1px solid var(--border)}
+th{color:var(--text-muted);font-size:.8rem;text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
+ header h1{font-size:1.6rem}}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}
+.breadcrumb-nav a{color:#58a6ff;text-decoration:none}
+.breadcrumb-nav a:hover{text-decoration:underline}
+.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<header>
+<h1>Bank Account Freeze After Filing Bankruptcy</h1>
+<p class="subtitle">What Wells Fargo, Chase, and Your Local Credit Union Actually Do When They Learn You Filed</p>
+</header>
+<div class="container">
+<nav style="margin-bottom:1rem;font-size:.9rem"><a href="/">← Back to bankaccountlevy.com</a></nav>
+<main id="main-content">
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://bankaccountlevy.com">bankaccountlevy.com</a><span class="separator">›</span><span>Bank Freeze After Bankruptcy</span></nav>
+
+<div class="content-section">
+<h2>A Different Kind of Freeze</h2>
+<p>This page is about the <strong>post-petition freeze</strong> - the hold a bank places on your own account in the days <em>after</em> you file bankruptcy. It is not about a pre-petition creditor <a href="/bank-account-freeze.html">bank levy</a>, which is a different legal event with different law. If your account was frozen by a creditor's judgment before you filed anything, read <a href="/bank-account-freeze.html">this page</a> instead.</p>
+<p>The post-petition freeze surprises almost every debtor. You file Chapter 7 Monday. Tuesday or Wednesday, your paycheck deposits into your account as usual. Thursday morning, you check the balance and the account is frozen - you cannot withdraw, cannot use your debit card, cannot pay rent on Friday. Your attorney did not warn you. The bank did not call. It just happened.</p>
+</div>
+
+<div class="content-section">
+<h2>What the Bank Is Actually Doing</h2>
+<p>When a bank learns of a bankruptcy filing - by receiving notice from the court, by a notice from the trustee, or by matching your name against a bankruptcy-filings database - the bank faces two competing legal obligations:</p>
+<ul>
+<li><strong>Turnover duty under 11 U.S.C. § 542.</strong> Any property of the estate held by a third party must be turned over to the trustee. Funds in your bank account on the date of filing are property of the estate under § 541(a) and, in the Chapter 7 context, belong to the trustee to administer.</li>
+<li><strong>Automatic stay under 11 U.S.C. § 362(a).</strong> Any act to exercise control over property of the estate is prohibited. The bank cannot unilaterally take your funds, but also cannot release them to you in a way that defeats the estate.</li>
+</ul>
+<p>Rather than decide which funds belong to whom - a decision the bank's compliance team is not authorized to make - the bank imposes an <strong>administrative freeze</strong>. Account access is suspended until the trustee instructs the bank what to do: release to the debtor (exempt funds), turn over to the estate (non-exempt funds over the trustee's threshold), or some combination.</p>
+
+<div class="yellow-box">
+<p><strong>No federal rule requires the freeze.</strong> It is a bank-by-bank internal policy choice. Credit unions, community banks, and most regional banks do not freeze accounts unless specifically instructed by the trustee. Large national banks freeze routinely as a matter of internal compliance policy - a belt-and-suspenders approach that trades customer relationships for legal certainty.</p>
+</div>
+</div>
+
+<div class="content-section">
+<h2>The Banks Known for Routine Post-Filing Freezes</h2>
+<table>
+<tr><th>Bank</th><th>Freeze policy</th><th>Typical duration</th></tr>
+<tr><td>Wells Fargo</td><td>Routine freeze on all debtor accounts over a low threshold (historically around $5,000, policies change)</td><td>5 to 10 business days</td></tr>
+<tr><td>Chase</td><td>Routine freeze at some branches/regions; inconsistent</td><td>3 to 7 business days</td></tr>
+<tr><td>Bank of America</td><td>Freeze when notified; less automatic than Wells Fargo</td><td>3 to 7 business days</td></tr>
+<tr><td>US Bank</td><td>Freeze in some regions, no-freeze in others</td><td>Variable</td></tr>
+<tr><td>Citizens, PNC, regional banks</td><td>Usually wait for trustee instruction</td><td>Rare freeze</td></tr>
+<tr><td>Credit unions</td><td>Almost never freeze automatically</td><td>N/A</td></tr>
+</table>
+
+<p>Wells Fargo's routine freeze has been the subject of extensive litigation. In <em>In re Mwangi</em>, 432 B.R. 812 (9th Cir. BAP 2010, later proceedings), the court held that Wells Fargo's administrative freeze of the debtor's account - without a court order and without releasing exempt funds promptly - violated the automatic stay under § 362(a)(3). Other circuits have been more permissive, treating short-duration freezes (under 10 days) as reasonable compliance with the § 542 turnover duty. The law remains unsettled.</p>
+</div>
+
+<div class="content-section">
+<h2>What Happens to the Frozen Funds</h2>
+<p>Three typical resolutions:</p>
+<ol>
+<li><strong>Below the trustee's threshold - released to you.</strong> Most trustees have an informal threshold (often $1,000 to $5,000 in account balances, varying by district and trustee) below which they do not pursue turnover because the administrative cost exceeds the recovery. Bank confirms with trustee, receives a release letter, unfreezes the account.</li>
+<li><strong>Above the threshold - turnover to trustee.</strong> Bank sends the funds to the trustee, who holds them as part of the estate. If you have exemptions covering the funds (wildcard, cash-on-hand exemption in some states), the trustee returns your exempt portion.</li>
+<li><strong>Mixed - partial release.</strong> Bank releases the exempt portion to you, turns over the non-exempt portion to the trustee. Your attorney and the trustee negotiate the split.</li>
+</ol>
+</div>
+
+<div class="content-section">
+<h2>How Long the Freeze Lasts</h2>
+<p>Resolution timelines in the typical Chapter 7 case:</p>
+<ul>
+<li><strong>Day 0:</strong> You file. Bank does not yet know.</li>
+<li><strong>Day 1-3:</strong> Electronic case filing notice propagates to bankruptcy-filings databases and to trustee. Some banks (Wells Fargo) match against the database daily.</li>
+<li><strong>Day 3-7:</strong> Bank imposes freeze. You discover it at an ATM or in online banking.</li>
+<li><strong>Day 7-14:</strong> Your attorney (or you, if pro se) contacts the trustee. Trustee either sends the bank a "no-interest" letter releasing the account, or makes a turnover demand for the non-exempt portion.</li>
+<li><strong>Day 10-14:</strong> Funds released per trustee instruction.</li>
+</ul>
+<p>Freezes extending past two weeks without trustee instruction are atypical. If yours has, either the bank has not received the trustee's letter (common - call both), or the trustee is affirmatively holding the account pending investigation (uncommon, usually has a specific trigger like a recent large deposit).</p>
+</div>
+
+<div class="content-section">
+<h2>The "COAL" Transaction and Other Workarounds</h2>
+<p>Some bankruptcy attorneys advise clients to move funds out of a Wells Fargo / Chase account to a credit union in the days before filing. In the Reddit pattern, debtors sometimes mention a "COAL" transaction - Cashier's check Out-At-Logged - as a way to pull funds and re-deposit into a new account. This is legal but carries risks:</p>
+
+<div class="warning">
+<p><strong>Transfers must be disclosed.</strong> Any transfer in the 90 days before filing must be reported on the Statement of Financial Affairs. Large transfers in the year before filing to a new account for avoidance purposes look like planning; transfers you cannot explain look like hiding assets. If you move money, document why.</p>
+</div>
+
+<div class="warning">
+<p><strong>Do not close the original account.</strong> Leave a $5 or $10 balance. Closed accounts disappear from your statements and create reconciliation problems at the 341 meeting. An open account with a small balance is a clean paper trail.</p>
+</div>
+
+<div class="warning">
+<p><strong>Do not withdraw cash and hide it.</strong> Cash withdrawals shortly before filing are the single most-asked-about entry in bank-statement review. Withdrawals for documented purposes (rent, bills, groceries) are fine. Withdrawals with no paper trail look like concealment.</p>
+</div>
+
+<div class="green-box">
+<p><strong>Clean workaround:</strong> 7-14 days before filing, open a credit union account. Set up direct deposit to the new account. Leave $10-$50 in the old account. Disclose both accounts on Schedule A/B. No cash movements, no round-trip transactions, no closed accounts. Bankruptcy proceeds, Wells Fargo may still freeze the old account but with nothing material in it, and your paychecks flow into a credit union that does not freeze.</p>
+</div>
+</div>
+
+<div class="content-section">
+<h2>Scenarios</h2>
+
+<h3>Scenario 1 - Wells Fargo checking account, $3,200 balance, Tuesday filing</h3>
+<p>Friday morning: account frozen. Weekend: no movement. Monday: your attorney emails the trustee; trustee confirms no interest in accounts under $5,000 in this district; trustee faxes Wells Fargo a no-interest letter. Tuesday afternoon: account unfrozen. Impact: 4 business days of no access. Rent paid late with a one-time fee from the landlord.</p>
+
+<h3>Scenario 2 - Chase checking, $8,000 balance, Thursday filing</h3>
+<p>Friday: freeze. Following Wednesday: trustee reviews schedules; $5,000 wildcard exemption claimed; $3,000 is non-exempt. Trustee demands turnover of the $3,000. Chase releases $5,000 to debtor, sends $3,000 to trustee. Net impact: lost $3,000 plus 6 business days of partial lockout. Often resolved faster if exemption is obvious on the schedules.</p>
+
+<h3>Scenario 3 - Credit union account, $2,500 balance, any filing</h3>
+<p>No freeze. Account continues operating normally. Trustee reviews schedules, sees balance is within wildcard exemption, takes no action. Debtor never notices the bankruptcy touched the account at all. This is why "move to a credit union before filing" is standard attorney advice.</p>
+
+<h3>Scenario 4 - Account frozen, rent due in 2 days</h3>
+<p>Call your bankruptcy attorney immediately. Some attorneys can obtain an emergency trustee letter within 24-48 hours for documented essential expenses (rent, utilities, medical). If pro se, call the trustee directly - the trustee's phone number is on the appointment notice - and explain. Most trustees will issue an expedited release for legitimate subsistence expenses below the account threshold.</p>
+</div>
+
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>Will my direct deposit keep working while the account is frozen?</h3>
+<p>The deposit itself arrives. Whether you can access it depends on the bank. Wells Fargo and Chase typically freeze both withdrawals and transfers but let deposits post. When the freeze lifts, the deposits are available along with the pre-filing balance.</p>
+</div>
+<div class="faq-item">
+<h3>Can I still use my debit card while frozen?</h3>
+<p>No. Debit card transactions will decline. Automatic bill-pay from the account will fail. Pending transactions in process at the time of the freeze usually reverse.</p>
+</div>
+<div class="faq-item">
+<h3>Should I withdraw all my cash before filing to avoid the freeze?</h3>
+<p>No. Large cash withdrawals in the week before filing are the most suspicious transactions on your bank statements. You must disclose them and explain what you did with the money. The clean path is opening a credit union account and using normal electronic transfers - not cash.</p>
+</div>
+<div class="faq-item">
+<h3>Is there a Chapter 13 equivalent of this freeze?</h3>
+<p>Less common. Chapter 13 debtors keep their property and the standing trustee is not administering a liquidation estate. Most banks do not freeze Chapter 13 accounts, but a few still do for the first 30-60 days out of caution. The fix is the same - a letter from the standing trustee or your attorney.</p>
+</div>
+<div class="faq-item">
+<h3>Can I sue Wells Fargo for violating the automatic stay?</h3>
+<p>Possibly, under § 362(k). The <em>Mwangi</em> case established that routine freezes without prompt release of exempt funds can be stay violations, exposing the bank to actual damages, punitive damages, and attorney fees. Whether your specific freeze qualifies depends on duration, notice, and the bank's explanation. Talk to an attorney - you do not need to pay to ask.</p>
+</div>
+</div>
+
+<div class="cta-box">
+<p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p>
+<a class="btn" href="https://1328f.com?utm_source=bankaccountlevy.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
+</div>
+
+<div class="about-data">
+<strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code §§ 362, 541, 542), <em>In re Mwangi</em>, 432 B.R. 812 (9th Cir. BAP 2010), and related automatic-stay case law. Bank policies cited are based on public litigation records and published attorney commentary; individual bank policies change and may differ from what is described here. This is educational content, not legal advice.
+</div>
+
+<!-- BTN Cross-Links -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="/bank-account-freeze.html" style="color:#58a6ff;text-decoration:none">Pre-petition bank levy (the other kind)</a></li>
+<li><a href="/exempt-funds.html" style="color:#58a6ff;text-decoration:none">Exempt funds in your account</a></li>
+<li><a href="https://automaticstay.org" style="color:#58a6ff;text-decoration:none">The automatic stay - § 362</a></li>
+<li><a href="https://drowningindebt.org/should-i-file.html" style="color:#58a6ff;text-decoration:none">Should I file bankruptcy?</a></li>
+</ul>
+</div>
+</main>
+</div>
+
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none">♥ Sponsor</a>
+</div>
+
+<div class="network-footer" style="text-align:center;padding:2rem 1rem;margin-top:2rem;border-top:1px solid #30363d;font-size:0.85rem;color:#9eaab6">
+<p><strong>bankaccountlevy.com</strong> - A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p class="links" style="margin:1rem 0;line-height:2">
+<a href="/">Home</a> ·
+<a href="/how-levies-work.html">How Levies Work</a> ·
+<a href="/bank-account-freeze.html">Pre-petition Freeze</a> ·
+<a href="/bank-freeze-after-bankruptcy.html">Post-petition Freeze</a> ·
+<a href="/exempt-funds.html">Exempt Funds</a> ·
+<a href="/challenging-a-levy.html">Challenging a Levy</a> ·
+<a href="/privacy.html">Privacy</a>
+</p>
+<p class="disclaimer" style="font-size:0.75rem;margin-top:1rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.</p>
+</div>
+<script defer="" src="/btn-engage.js"></script>
+</body>
+</html>
